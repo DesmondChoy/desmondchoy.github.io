@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[88589,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/036rh8cdllkpz.js"],"Navigation"]
-3:I[32177,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/036rh8cdllkpz.js"],"Hero"]
-4:I[48005,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/036rh8cdllkpz.js"],"Projects"]
-5:I[55786,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/036rh8cdllkpz.js"],"About"]
-6:I[75854,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/036rh8cdllkpz.js"],"Contact"]
+2:I[88589,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/14e~fu.ix2t48.js"],"Navigation"]
+3:I[32177,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/14e~fu.ix2t48.js"],"Hero"]
+4:I[48005,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/14e~fu.ix2t48.js"],"Projects"]
+5:I[55786,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/14e~fu.ix2t48.js"],"About"]
+6:I[75854,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/14e~fu.ix2t48.js"],"Contact"]
 7:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}],["$","footer",null,{"className":"border-t border-rule px-6 py-8 lg:px-8","children":["$","div",null,{"className":"mx-auto max-w-[68rem]","children":["$","p",null,{"className":"text-xs text-muted","children":["Desmond Choy · ",2026]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/036rh8cdllkpz.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rbx-TdYN2H4rbBu7I9RqN"}
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}],["$","footer",null,{"className":"border-t border-rule px-6 py-8 lg:px-8","children":["$","div",null,{"className":"mx-auto max-w-[68rem]","children":["$","p",null,{"className":"text-xs text-muted","children":["Desmond Choy · ",2026]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/14e~fu.ix2t48.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PtsLiNpkzQTRKNJ0AP0g0"}
 9:null
